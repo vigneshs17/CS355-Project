@@ -1,0 +1,1 @@
+Abstractive method
